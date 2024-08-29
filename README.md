@@ -6,8 +6,8 @@ TaeMin Kim
 
 <div align=center>
 
-[![LasBe-code's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LasBe-code&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/LasBe-code)
-![LasBe-code's github stats](https://github-readme-stats.vercel.app/api?username=LasBe-code&show_icons=true)
+[![Taemin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=taemin6536&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/taemin6536)
+![Taemin's github stats](https://github-readme-stats.vercel.app/api?username=taemin6536&show_icons=true)
 
 </div>
 
@@ -29,7 +29,7 @@ TaeMin Kim
 
 <a href="https://lasbe.tistory.com/">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-black.svg?style=for-the-badge&logo=TV Time&link=https://lasbe.tistory.com/"/>
+        src="http://img.shields.io/badge/-Tech%20Blog-black.svg?style=for-the-badge&logo=TV Time&link=https://xoals6536.tistory.com/"/>
 </a>
  
 <a href="https://instagram.com/lasbe_">
