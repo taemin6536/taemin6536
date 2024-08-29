@@ -15,9 +15,9 @@ TaeMin Kim
 
 <div align=center>
  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-1877f2.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DBFB.svg?&style=for-the-badge&logo=React&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1877f2.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring.svg?&style=for-the-badge&logo=React&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
  
@@ -30,11 +30,6 @@ TaeMin Kim
 <a href="https://lasbe.tistory.com/">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-black.svg?style=for-the-badge&logo=TV Time&link=https://xoals6536.tistory.com/"/>
-</a>
- 
-<a href="https://instagram.com/lasbe_">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black.svg?style=for-the-badge&logo=Instagram&link=https://instagram.com/lasbe_/"/>
 </a>
 
 </div>
