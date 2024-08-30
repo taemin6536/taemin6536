@@ -12,13 +12,10 @@
   </div>
 </div>
 
-<br></br>
-
 ---
 
 ## 🛠 Skills
-<!--내용 부분-->
-### Main Tools
+<div align=cnenter>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>&nbsp 
@@ -44,35 +41,21 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp<br><br>
 </p>
-
-<br></br>
-
-### Currently Developing Tools
-<div width="100%">
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/docker.png" alt="docker" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/github-actions.png" alt="github actions" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/linux.png" alt="linux" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/nginx.png" alt="nginx" height="50px"/>
 </div>
-
-<br></br>
 
 ---
 
 ## ⚡️Others
 
 <div align=center>
-
-<a href="https://xoals6536.tistory.com/">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-black.svg?style=for-the-badge&logo=TV Time&link=https://xoals6536.tistory.com/"/>
-</a>
-
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
-
+  <a href="https://xoals6536.tistory.com/">
+      <img 
+          src="http://img.shields.io/badge/-Tech%20Blog-black.svg?style=for-the-badge&logo=TV Time&link=https://xoals6536.tistory.com/"/>
+  </a>
+  <h3 align="center">🛠 Tools 🛠</h3>
+  <div align="center">
+    <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  </div>
 </div>
