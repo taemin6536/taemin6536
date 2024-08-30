@@ -31,8 +31,7 @@
 ## ⚡️Others
 <div align=center>
   <a href="https://xoals6536.tistory.com/">
-      <img src="http://img.shields.io/badge/-Tech%20Blog-black.svg?style=for-the-badge&logo=TV Time&link=https://xoals6536.tistory.com/"/>
-    
+      <img src="http://img.shields.io/badge/-Tech%20Blog-black.svg?style=for-the-badge&logo=Tistory&link=https://xoals6536.tistory.com/"/>
   </a>
     <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
