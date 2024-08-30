@@ -7,8 +7,8 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp <br>
 <img src="https://img.shields.io/badge/Kakfa-000000?style=flat-square&logo=apachekafka&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/ActiveMQ-FF9900?style=flat-square&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Redis-527FFF?style=flat-square&logo=redis&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/></a>&nbsp <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/></a>&nbsp 
