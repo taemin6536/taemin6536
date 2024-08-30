@@ -1,7 +1,7 @@
 # 📸 Kim Tae Min [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLasBe-code&count_bg=%23FF7600&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ---
-## ⚡️ Statistics
+## ✨ Statistics
 <div align=center>
   <div>
     <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=taemin6536&show_icons=true&theme=holi" width = "49%" height="130%" />
@@ -10,8 +10,9 @@
   </div>
 </div>
 
----
+<br>
 
+---
 <div>
 ## 🛠 Skills
   <div align=cnenter>
