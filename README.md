@@ -24,10 +24,7 @@
 
 
 
----
-<div>
-## 🛠 Skills
-  <div align=cnenter>
+
   <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>&nbsp 
@@ -53,8 +50,6 @@
     <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp<br><br>
   </p>
-  </div>
-</div>
 
 ---
 
