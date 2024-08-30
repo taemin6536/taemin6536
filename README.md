@@ -12,7 +12,7 @@
 <!-- <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/></a>&nbsp > -->
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/GitLab-CICD-FC6D26?style=flat-square&logo=git lab&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Eclipse-IDE-2C2255?style=flat-square&logo=Eclipse-IDE&logoColor=white"/></a>&nbsp <br>
 <!-- <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
