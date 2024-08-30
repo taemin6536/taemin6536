@@ -2,29 +2,13 @@
 
 ---
 ## ✨ Statistics
-<div align=center>
-  <div>
-    <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=taemin6536&show_icons=true&theme=holi" width = "49%" height="130%" />
+<div>
+    <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=taemin6536&show_icons=true&theme=holi" width = "50%" height="130%" />
 <!--     <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=xoals6536" width="42%" height="100%"/> -->
-        <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=taemin6536&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
-  </div>
-  <br>
+    <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=taemin6536&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
 </div>
 
----
-## ✨ Statistics
-<div align=center>
-  <div>
-    <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=taemin6536&show_icons=true&theme=holi" width = "49%" height="130%" />
-<!--     <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=xoals6536" width="42%" height="100%"/> -->
-        <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=taemin6536&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
-  </div>
-  <br>
-</div>
-
-
-
-
+## 🎬 Skill
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>&nbsp 
