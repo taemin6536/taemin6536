@@ -4,7 +4,7 @@
 ## ⚡️ Statistics
 <div align=center>
   <div>
-    <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=xoals6536&show_icons=true&theme=holi" width = "49%" height="130%" />
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xoals6536&show_icons=true&theme=radical)
     <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=xoals6536" width="42%" height="100%"/>
   </div>
   <div>
