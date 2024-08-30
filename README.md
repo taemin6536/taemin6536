@@ -33,7 +33,7 @@
   <a href="https://xoals6536.tistory.com/">
       <img src="http://img.shields.io/badge/-Tech%20Blog-black.svg?style=for-the-badge&logo=Tistory&link=https://xoals6536.tistory.com/"/>
   </a>
-  <a href="[https://www.notion.so/599396e0d32048aeb28b61511ed3da68?pvs=4](https://whispering-manatee-105.notion.site/599396e0d32048aeb28b61511ed3da68?pvs=25)">
+  <a href="https://whispering-manatee-105.notion.site/599396e0d32048aeb28b61511ed3da68?pvs=25">
     <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   </a>
 </div>
