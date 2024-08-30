@@ -8,6 +8,23 @@
     <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=taemin6536&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
 </div>
 
+---
+
+## ⚡️Others
+
+<div align=center>
+  <a href="https://xoals6536.tistory.com/">
+      <img 
+          src="http://img.shields.io/badge/-Tech%20Blog-black.svg?style=for-the-badge&logo=TV Time&link=https://xoals6536.tistory.com/"/>
+  </a>
+  <h3 align="center">🛠 Tools 🛠</h3>
+  <div align="center">
+    <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  </div>
+</div>
+
 ## 🎬 Skill
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>&nbsp 
@@ -34,20 +51,3 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp<br><br>
 </p>
-
----
-
-## ⚡️Others
-
-<div align=center>
-  <a href="https://xoals6536.tistory.com/">
-      <img 
-          src="http://img.shields.io/badge/-Tech%20Blog-black.svg?style=for-the-badge&logo=TV Time&link=https://xoals6536.tistory.com/"/>
-  </a>
-  <h3 align="center">🛠 Tools 🛠</h3>
-  <div align="center">
-    <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  </div>
-</div>
